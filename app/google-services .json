@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "75693599033",
+    "firebase_url": "https://cricapp-6642d.firebaseio.com",
+    "project_id": "cricapp-6642d",
+    "storage_bucket": "cricapp-6642d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75693599033:android:a05a8bc71de714d9",
+        "android_client_info": {
+          "package_name": "com.yml.cricapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75693599033-e58nlrpqe2bl66kphc9vt1eav6nmr60p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1iD0Zt9CyK8qvvuYJtcqgNqmf_EmsClE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
