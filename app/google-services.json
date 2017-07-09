@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "640849609952",
+    "firebase_url": "https://cricapp-9b3e3.firebaseio.com",
+    "project_id": "cricapp-9b3e3",
+    "storage_bucket": "cricapp-9b3e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640849609952:android:a05a8bc71de714d9",
+        "android_client_info": {
+          "package_name": "com.yml.cricapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640849609952-6cav4fhs77si4f10mudqtp3hkrm1sqif.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yml.cricapp",
+            "certificate_hash": "5475ab62108f3e5531719595d032cd9c088ec180"
+          }
+        },
+        {
+          "client_id": "640849609952-gjviue1tlag7g677k0mdrq5redh7nd1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiKPdxBU_xSl_KS_DiH1uCJCGjhkPvF1E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640849609952-gjviue1tlag7g677k0mdrq5redh7nd1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

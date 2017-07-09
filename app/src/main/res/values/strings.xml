@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">CricApp</string>
+    <string name="title_activity_splash">SplashActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="sign_up_fragment">SignUpFragment</string>
 </resources>

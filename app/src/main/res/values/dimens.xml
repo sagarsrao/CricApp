@@ -1,0 +1,40 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="One">1dp</dimen>
+    <dimen name="Two">2dp</dimen>
+    <dimen name="Three">3dp</dimen>
+    <dimen name="Four">4dp</dimen>
+    <dimen name="Five">5dp</dimen>
+    <dimen name="Six">6dp</dimen>
+    <dimen name="Seven">7dp</dimen>
+    <dimen name="Eight">8dp</dimen>
+    <dimen name="Nine">9dp</dimen>
+    <dimen name="Ten">10dp</dimen>
+    <dimen name="Eleven">11dp</dimen>
+    <dimen name="Twelve">12dp</dimen>
+    <dimen name="Thirteen">13dp</dimen>
+    <dimen name="Fourteen">14dp</dimen>
+    <dimen name="Fifteen">15dp</dimen>
+    <dimen name="Sixteen">16dp</dimen>
+    <dimen name="Seventeen">17dp</dimen>
+    <dimen name="Eighteen">18dp</dimen>
+    <dimen name="Nineteen">19dp</dimen>
+    <dimen name="Twenty">20dp</dimen>
+    <dimen name="TwentyOne">21dp</dimen>
+    <dimen name="TwentyTwo">22dp</dimen>
+    <dimen name="TwentyThree">23dp</dimen>
+    <dimen name="TwentyFour">24dp</dimen>
+    <dimen name="TwentyFive">25dp</dimen>
+    <dimen name="TwentySix">26dp</dimen>
+    <dimen name="TwentySeven">27dp</dimen>
+    <dimen name="TwentyEight">28dp</dimen>
+    <dimen name="TwentyNine">29dp</dimen>
+    <dimen name="Thirty">30dp</dimen>
+    <dimen name="ThirtyOne">31dp</dimen>
+    <dimen name="ThirtyTwo">32dp</dimen>
+    <dimen name="ThirtyThree">33dp</dimen>
+    <dimen name="ThirtyFour">34dp</dimen>
+    <dimen name="ThirtyFive">35dp</dimen>
+
+
+</resources>
