@@ -40,6 +40,7 @@ public class SignInFragment extends Fragment {
 
     }
 
+
     @Override
 
     //Just inflate the view in OnCreateView and do the rest of the process being the same in activities
